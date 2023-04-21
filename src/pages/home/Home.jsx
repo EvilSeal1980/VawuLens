@@ -5,7 +5,6 @@ import Values from "../../components/Values";
 import FAQs from "../../components/FAQs";
 import "./Home.css";
 import Testimonials from "../../components/Testimonials";
-import Footer from "../../components/Footer";
 
 const Home = () => {
   return (

@@ -1,8 +1,8 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import Logo from '../images/logo.png'
-import { FaLinkedin, FaFacebookF, FaTwitter } from 'react-icons/fa'
-import { AiOutlineTwitter, AiOutlineInstagram } from 'react-icons/ai'
+import { FaLinkedin, FaFacebookF } from 'react-icons/fa'
+import { AiOutlineTwitter } from 'react-icons/ai'
 import { AiFillInstagram } from 'react-icons/ai'
 
 const Footer = () => {
