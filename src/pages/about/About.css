@@ -57,7 +57,7 @@
 }
 
 
-/*================ MEDIA QUERIES (MSmall Screens) ===================*/
+/*================ MEDIA QUERIES (Small Screens) ===================*/
 @media screen and (max-width: 600px) {
     .about_section-image{
         width: 80%;

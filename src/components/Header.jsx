@@ -5,7 +5,7 @@ const Header = ({title, image, children}) => {
     <header className='header'>
         <div className="header_container">
             <div className="header_container-bg">
-                <img src={image} alt="Header Background Image" />
+                <img src={image} alt="Header Background" />
             </div>
             <div className="header_content">
                 <h2>{title}</h2>
